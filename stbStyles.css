@@ -65,10 +65,11 @@ header {
     text-align: center;
     width: 325px;
     height: 30px;
-    color: white;
+    color: black;
     background-color: orange;
     font-size: 25px;
     font-family: arial;
+   
   }
 
 #reset {
